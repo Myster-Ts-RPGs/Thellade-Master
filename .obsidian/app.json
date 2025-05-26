@@ -1,1 +1,28 @@
-{}
+{
+  "livePreview": false,
+  "propertiesInDocument": "hidden",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "z_Unorganized",
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "90_Assets/z_Unorganized",
+  "userIgnoreFilters": [
+    "20_Reference/",
+    "80_Versioning/",
+    "z_Unorganized/",
+    "z_Templates/",
+    "10_Campaign/40_Lore/020_Calendar/",
+    "Vault Hub",
+    "Tab of Lazy Prep",
+    "Sessions Planner",
+    "Notepad",
+    "90_Assets/",
+    "In Session",
+    "Welcome",
+    "Buttons",
+    "LICENSE",
+    "Languages",
+    "Readme",
+    "Travel Calculator"
+  ],
+  "showInlineTitle": false
+}

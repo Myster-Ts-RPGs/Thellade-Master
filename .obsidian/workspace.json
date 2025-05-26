@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "d0b2538f81fba177",
+    "id": "7030a7d0bfa97102",
     "type": "split",
     "children": [
       {
-        "id": "69a0f880a0ea8d7e",
+        "id": "d5148d9b118df8a6",
         "type": "tabs",
         "children": [
           {
-            "id": "315d734c70113161",
+            "id": "e4487ee74871d89b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "80_Versioning/Commits/Git Commit 2025-05-26 12-16.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Git Commit 2025-05-26 12-16"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b00584b25b3f79b7",
+    "id": "671e7fb895ec3db3",
     "type": "split",
     "children": [
       {
-        "id": "f2c55adad9d5450b",
+        "id": "c89be387e40b99a4",
         "type": "tabs",
         "children": [
           {
-            "id": "d89b2a5c1320a948",
+            "id": "22576cecfefe44af",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "60cafa8d76a6ed55",
+            "id": "b136025041f47773",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "bf694195da7dafd7",
+            "id": "8cd88087100655ea",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "28009314c5907c03",
+    "id": "688b905792e34696",
     "type": "split",
     "children": [
       {
-        "id": "f9d1b56b77fc64ea",
+        "id": "b1a22b015f4bdd19",
         "type": "tabs",
         "children": [
           {
-            "id": "4eb8c7aaeb73abbb",
+            "id": "b999452cc9f21a6a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "80_Versioning/Commits/Git Commit 2025-05-26 12-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,51 +104,35 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Git Commit 2025-05-26 12-16"
             }
           },
           {
-            "id": "5a9170d12136e731",
+            "id": "79cb52733c0d6386",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "80_Versioning/Commits/Git Commit 2025-05-26 12-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Git Commit 2025-05-26 12-16"
             }
           },
           {
-            "id": "2b42ec9921100388",
+            "id": "5a9b30997d696d17",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "94be239d0be08813",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Welcome.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -165,12 +149,42 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "315d734c70113161",
+  "active": "e4487ee74871d89b",
   "lastOpenFiles": [
-    "README.md",
-    "Welcome.md"
+    "80_Versioning/Commits/Untitled 2.md",
+    "80_Versioning/Commits/Git Commit 2025-05-26 12-16.md",
+    "z_Templates/Git Commit - Template.md",
+    "z_Templates/Git Release - Template.md",
+    "80_Versioning/Commits/Untitled 3.md",
+    "80_Versioning/Commits/Untitled 1.md",
+    "z_Templates/10_World_Building/10_Locations/Template - District.md",
+    "80_Versioning/VaultChangelog.md",
+    "80_Versioning/Milestones.md",
+    "80_Versioning/CurrentVersion.md",
+    "80_Versioning/Best Practices.md",
+    "80_Versioning/Commits/Untitled.md",
+    "Vault Hub.md",
+    "Tab of Lazy Prep.md",
+    "Sessions Planner.md",
+    "Notepad.md",
+    "z_Templates/10_World_Building/10_Locations/Point of Interests/Template - Point of Interest (Tavern).md",
+    "z_Templates/10_World_Building/10_Locations/Point of Interests/Template - Point of Interest (Shop).md",
+    "z_Templates/10_World_Building/10_Locations/Point of Interests/Template - Point of Interest.md",
+    "z_Templates/10_World_Building/10_Locations/Template - Planet.md",
+    "z_Templates/10_World_Building/10_Locations/Template - Reach.md",
+    "z_Templates/10_World_Building/10_Locations/Template - Continent.md",
+    "Travel Calculator.md",
+    "LICENSE.md",
+    "Languages.md",
+    "In Session.md",
+    "generate_canon.py",
+    "90_Assets/z_Unorganized"
   ]
 }

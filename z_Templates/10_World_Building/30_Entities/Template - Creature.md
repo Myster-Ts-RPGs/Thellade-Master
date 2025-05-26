@@ -1,0 +1,3 @@
+# Creature
+
+%% Statblock, habitat, behavior %%

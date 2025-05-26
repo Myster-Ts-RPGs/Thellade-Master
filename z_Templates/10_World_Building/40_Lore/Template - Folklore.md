@@ -1,0 +1,5 @@
+# Folklore
+
+- Story:
+- Moral:
+- Region:
